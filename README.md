@@ -1,5 +1,6 @@
 # Little-Man-Computer
 This program accepts LMC programs provided in a .txt file and executes them and provides the output
+This program is written in c++
 
 ## Accepted instructions
 
